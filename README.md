@@ -28,3 +28,8 @@ Examples
     Female robot voice (idea from here):
 
     google_speech -l en "Hello, I am a stupid robot voice" -e speed 0.9 overdrive 10 echo 0.8 0.7 6 0.7 echo 0.8 0.7 10 0.7 echo 0.8 0.7 12 0.7 echo 0.8 0.88 12 0.7 echo 0.8 0.88 30 0.7 echo 0.6 0.6 60 0.7
+
+
+
+https://www.geeksforgeeks.org/convert-text-speech-python/
+https://pythonspot.com/speech-recognition-using-google-speech-api/
